@@ -8,112 +8,112 @@ This project demonstrates the complete data analytics workflow — from raw data
 
 📁 Dataset
 
-Total Records: 3,900
+1.Total Records: 3,900
 
-Total Features: 18
+2.Total Features: 18
 
-Data Type: Numerical & Categorical
+3.Data Type: Numerical & Categorical
 
 Key Attributes:
 
-Customer Demographics (Age, Gender, Location)
+1.Customer Demographics (Age, Gender, Location)
 
-Purchase Details (Category, Item Purchased, Purchase Amount)
+2.Purchase Details (Category, Item Purchased, Purchase Amount)
 
-Behavioral Data (Discount Applied, Subscription Status, Purchase Frequency)
+3.Behavioral Data (Discount Applied, Subscription Status, Purchase Frequency)
 
-Missing Values: Only in Review Rating column
+4.Missing Values: Only in Review Rating column
 
 🛠 Tech Stack
 
-Python: Pandas, NumPy (EDA & data cleaning)
+1.Python: Pandas, NumPy (EDA & data cleaning)
 
-PostgreSQL: SQL-based business analysis
+2.PostgreSQL: SQL-based business analysis
 
-Power BI: Interactive dashboard & KPIs
+3.Power BI: Interactive dashboard & KPIs
 
-Jupyter Notebook: Analysis workflow
+4.Jupyter Notebook: Analysis workflow
 
-Gamma: Project presentation (PPT)
+5.Gamma: Project presentation (PPT)
 
 🔍 Project Workflow
 
-Load dataset in Python
+1.Load dataset in Python
 
-Perform Exploratory Data Analysis (EDA)
+2.Perform Exploratory Data Analysis (EDA)
 
-Clean and preprocess data
+3.Clean and preprocess data
 
-Feature engineering for segmentation
+4.Feature engineering for segmentation
 
-Load data into PostgreSQL
+5.Load data into PostgreSQL
 
-Run SQL queries for business insights
+6.Run SQL queries for business insights
 
-Build Power BI dashboard
+7.Build Power BI dashboard
 
-Create project report & presentation
+8.Create project report & presentation
 
 📈 Power BI Dashboard
 
 Key features:
 
-Revenue & Average Purchase Value KPIs
+1.Revenue & Average Purchase Value KPIs
 
-Category-wise and segment-wise revenue
+2.Category-wise and segment-wise revenue
 
-Subscription vs Non-subscription comparison
+3.Subscription vs Non-subscription comparison
 
-Interactive filters (Gender, Season, Category)
+4.Interactive filters (Gender, Season, Category)
 
 📊 Key Insights
 
-Subscribers show higher average spending
+1.Subscribers show higher average spending
 
-Loyal customers contribute the most revenue
+2.Loyal customers contribute the most revenue
 
-Discounts increase purchase frequency
+3.Discounts increase purchase frequency
 
-Specific age groups and categories drive sales
+4.Specific age groups and categories drive sales
 
-▶️ How to Run
+▶️How to Run
 # Install required libraries
 pip install pandas numpy
 
 
-Open the Jupyter Notebook
+1.Open the Jupyter Notebook
 
-Run EDA and data cleaning steps
+2.Run EDA and data cleaning steps
 
-Load cleaned data into PostgreSQL
+3.Load cleaned data into PostgreSQL
 
-Execute SQL queries using pgAdmin
+4.Execute SQL queries using pgAdmin
 
-Open the Power BI file to explore insights
+5.Open the Power BI file to explore insights
 
 📌 Deliverables
 
-Jupyter Notebook (EDA & Cleaning)
+1.Jupyter Notebook (EDA & Cleaning)
 
-SQL Queries (PostgreSQL)
+2.SQL Queries (PostgreSQL)
 
-Power BI Dashboard
+3.Power BI Dashboard
 
-Project Report
+4.Project Report
 
-Gamma Presentation (PPT)
+5.Gamma Presentation (PPT)
 
 🎯 Skills Demonstrated
 
-Data Cleaning & EDA
+1.Data Cleaning & EDA
 
-SQL Business Queries
+2.SQL Business Queries
 
-Data Visualization
+3.Data Visualization
 
-Dashboard Design
+4.Dashboard Design
 
-Insight Communication
+5.Insight Communication
 
 ✅ Conclusion
 
